@@ -1,0 +1,12 @@
+.input {
+  padding: 1.2rem;
+  border: 2px solid black;
+  border-radius: 0.6rem;
+  margin: 1.4rem 0.4rem;
+  font-size: 18px;
+}
+.todo {
+  width: 50%;
+  margin: 0.8rem auto;
+  text-align: left;
+}
